@@ -1,0 +1,36 @@
+.navbar-brand h1 { /* Restaurant name */
+    color: #0f0f0f;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+.navbar-default{
+    background-color: #bce8f1;
+}
+#nav-list a:hover{
+    background-color: floralwhite;
+}
+#menu-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+#content-title{
+    padding :20px 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+#content{
+    background-color: #bce8f1;
+    padding: 0 15px 0 15px;
+    width: 100%;
+}
+#nav-list{
+    font-size: 16px;
+    font-weight: bold;
+}
+#content-text{
+
+}
+#main-content{
+    height: 1000px;
+}
